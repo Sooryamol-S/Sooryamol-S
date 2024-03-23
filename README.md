@@ -1,6 +1,6 @@
 -  Hi, I’m @Sooryamol-S
 -  I’m interested in coding
--  I’m currently learning btech computerscience
+-  I’m currently learning btech computer science
 
 
 <!---
